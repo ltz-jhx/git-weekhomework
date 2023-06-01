@@ -66,4 +66,5 @@ func main() {
 	randomNumber(20, 100)
 	fmt.Println("斐波那契数列100内的打印")
 	fibonacci(100)
+//gittset
 }
