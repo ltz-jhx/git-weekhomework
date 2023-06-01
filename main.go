@@ -1,5 +1,5 @@
 package main
-//testgit
+//testgithotfix
 import (
 	"fmt"
 	"math/rand"
